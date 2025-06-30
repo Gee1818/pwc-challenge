@@ -1,10 +1,10 @@
-# \U0001f9e0 PwC Challenge
+# PwC Challenge
 
 This repository contains the code and resources used for the PwC data science challenge.
 
 ---
 
-## \U0001f680 Make New Predictions
+## Make New Predictions
 
 To launch the prediction web app:
 
@@ -13,16 +13,22 @@ To launch the prediction web app:
    ```bash
    cd src
    ```
-3. ```streamlit run app.py```
+3. ```bash
+   streamlit run app.py
+   ```
 
-# \U0001f9e0 Model Training & Optimization
+# Model Training & Optimization
 
 Training scripts and hyperparameter optimization logic are located in:
 
-```/src/optimizations```
+```bash
+/src/optimizations
+```
 
-# \U0001f9e0 Install Required Libraries
+# Install Required Libraries
 
 To install the necessary Python packages:
 
-```pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
+```
