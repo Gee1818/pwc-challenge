@@ -19,15 +19,15 @@ To launch the prediction web app:
 
 # Model Training & Optimization
 
-Training scripts and hyperparameter optimization logic are located in:
+Training scripts are located in `srs`
 
-```bash
-/src/optimizations
-```
+# Experimentation & Optimization
+
+Experimentation of model performance and hyperparameter optimization logic are located in `/src/optimizations`
 
 # Install Required Libraries
 
-To install the necessary Python packages:
+To install the necessary Python packages to run the code in this repo:
 
 ```bash
 pip install -r requirements.txt
